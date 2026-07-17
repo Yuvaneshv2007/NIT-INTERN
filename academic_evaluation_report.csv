@@ -1,0 +1,2 @@
+id,question,latency_s,precision_5,recall_5,mrr,ndcg_5,hit_rate_5,bleu_1,bleu_2,bleu_4,gleu,rouge_1,rouge_2,rouge_l,rouge_lsum,meteor,answer_f1,bertscore_f1,sbert_sim,faithfulness,context_relevancy,answer_relevance
+q22,Describe the primary indications and regimens for adjuvant therapy in resected stage III melanoma?,145.52,0.0,0.0,0.0,0.0,0.0,0.1452,0.0687,0.0283,0.051,0.236,0.0682,0.1685,0.1685,0.2345,0.2063,0.6646,0.6447,0.6,0.566,0.7166
